@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Rinchhen's Website</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1 class="lightning-text">Rinchhen Tamang</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="football.html">Football</a>
+      <a href="videogames.html">Video Games</a>
+      <a href="guitar.html">Guitar</a>
+      <a href="about.html">About Me</a>
+    </nav>
+  </header>
+
+  <main>
+    <h2>Welcome to my world 🌟</h2>
+    <p>This is my personal website where I share my hobbies and passions!</p>
+    <button id="magicButton">Click for Magic ✨</button>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Rinchhen Tamang</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>

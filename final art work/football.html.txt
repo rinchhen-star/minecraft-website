@@ -1,0 +1,5 @@
+<main>
+  <h2>⚽ Football</h2>
+  <img src="images/football.jpg" alt="Football">
+  <p>I love playing football with my friends. It's my favorite sport.</p>
+</main>

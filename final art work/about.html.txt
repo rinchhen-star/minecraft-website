@@ -1,0 +1,4 @@
+<main>
+  <h2>About Me</h2>
+  <p>Hello! I’m Rinchhen, and this is my personal space to showcase my hobbies: Football, Gaming, and Guitar. Thanks for visiting!</p>
+</main>

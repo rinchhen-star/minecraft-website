@@ -1,0 +1,8 @@
+document.addEventListener('DOMContentLoaded', () => {
+  const magicButton = document.getElementById('magicButton');
+  if (magicButton) {
+    magicButton.addEventListener('click', () => {
+      alert('✨ You found the magic button, Rinchhen! ✨');
+    });
+  }
+});

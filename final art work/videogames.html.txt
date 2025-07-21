@@ -1,0 +1,5 @@
+<main>
+  <h2>🎮 Video Games</h2>
+  <img src="images/videogames.jpg" alt="Video Games">
+  <p>Gaming is one of my passions. I enjoy exploring new virtual worlds.</p>
+</main>
